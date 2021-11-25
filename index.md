@@ -3,8 +3,7 @@
 Taka ot sobie przyjemna strona.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nie wiem co to.
 
 ```markdown
 Ciekawe informacje 
@@ -15,7 +14,7 @@ Jakość bazy noclegowej danej miejscowości ma często decydujący wpływ na il
 
 Jak Krynica to obiekty grupy PIONOW
 ![alt text]https://github.com/dkmak0/dkmak0.github.io/blob/main/krynica-morska-2019.jpg
-
+```
 ### Themes
 
 Można sobie zmieńić.
